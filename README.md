@@ -1,7 +1,5 @@
 # Ganesh-Ji
 
-https://tourmaline-bonbon-b33495.netlify.app/
-
 
 "A festive webpage for Ganesh Chaturthi with blessings, diya animations, and Ganpati Aarti tone."
 
